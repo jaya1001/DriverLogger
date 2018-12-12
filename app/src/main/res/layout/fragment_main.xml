@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="10dp"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/fragment_main"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/car"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CAR" />
+
+
+    <Button
+        android:id="@+id/truck5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5T TRUCK" />
+
+    <Button
+        android:id="@+id/truck10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10T TRUCK" />
+
+
+    <Button
+        android:id="@+id/tipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TIPPER" />
+
+
+    <Button
+        android:id="@+id/art"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ARTICULATED" />
+
+</LinearLayout>
